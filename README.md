@@ -2,3 +2,4 @@
 
 ## Phase 1 Advanced RAG Engineering
 - [Hybrid Search](https://github.com/GulrezQayyum/hybrid-search)
+- [Chunk Lab: Advanced Chunking](https://github.com/GulrezQayyum/chunkLab-advanced-chunking)
