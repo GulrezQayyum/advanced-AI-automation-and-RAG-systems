@@ -5,4 +5,5 @@
 - [ChunkLab](https://github.com/GulrezQayyum/chunkLab-advanced-chunking) — Chunking strategies comparison
 - [QueryLens](https://github.com/GulrezQayyum/queryLens) — Query transformation evaluation
 - [RAGBench](https://github.com/GulrezQayyum/ragbench) — RAG evaluation framework
+- [GraphKnowledge](https://github.com/GulrezQayyum/GraphKnowledge)
 
