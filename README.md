@@ -7,5 +7,5 @@
 - [RAGBench](https://github.com/GulrezQayyum/ragbench) — RAG evaluation framework
 - [GraphKnowledge](https://github.com/GulrezQayyum/GraphKnowledge) — Knowledge graph–based RAG
 
-## Phase 2 Advanced RAG Engineering
+## Phase 2 Production-Grade Agent Systems
 
