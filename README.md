@@ -8,4 +8,5 @@
 - [GraphKnowledge](https://github.com/GulrezQayyum/GraphKnowledge) — Knowledge graph–based RAG
 
 ## Phase 2 Production-Grade Agent Systems
+- [research-team-agents](https://github.com/GulrezQayyum/research-team-agents) 
 
